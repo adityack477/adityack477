@@ -122,14 +122,9 @@ Currently building and learning. Check back for new projects.
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=adityack477&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=1D9E75&text_color=ffffff&rank_icon=github" width="49%" />
-<img src="https://streak-stats.demolab.com/?user=adityack477&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=1D9E75&sideNums=1D9E75&dates=888888" width="49%" />
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adityack477&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff&langs_count=8" width="49%" />
-
-</div>
+![](https://github-readme-stats.shion.dev/api?username=adityack477&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=adityack477&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=adityack477&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
