@@ -10,7 +10,7 @@
 
 ## 👋 Hey, I'm Aditya
 
-Third-year B.Tech CSE student at **KIIT University** (CGPA: 8.17) — I build full-stack applications that actually work in production, not just on localhost.
+Third-year B.Tech CSE student at **KIIT University** (CGPA: 8.17) - I build full-stack applications that actually work in production, not just on localhost.
 
 I've shipped **3 production-deployed applications** with real users, real-time WebSocket architecture, LLM integrations, JWT authentication, and CI/CD pipelines. I care about writing code I can explain, not just code that runs.
 
